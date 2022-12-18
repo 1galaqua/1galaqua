@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 #### Languages and Tools:
-![img.png](img.png)![img_1.png](img_1.png)![img_2.png](img_2.png)![img_3.png](img_3.png) 
+![img.png](img.png)![img_1.png](img_1.png)![img_3.png](img_3.png) 
 
 #### Data Base:
 ![img_5.png](img_5.png)
