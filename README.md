@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 ## 📈 Github Stats:
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosefkahlon&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1galaqua&show_icons=true&theme=tokyonight)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosefkahlon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1galaqua&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
