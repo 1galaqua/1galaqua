@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-- 🎓 I’m a B.Sc. student at the Department of Computer Science and Mathematics in Ariel University.
+- 🎓 I’m a B.Sc. bachlor at the Department of Computer Science and Mathematics in Ariel University.
 
 [//]: # (- 🔭 I’m currently working on ...)
 
